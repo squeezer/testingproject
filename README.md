@@ -4,4 +4,3 @@
 * three stage thinking
 * commit
 
-Add a line here
