@@ -1,5 +1,7 @@
 # Introduction to Git & GitHub at Stanford
 
+# Local edit
+
 * git init
 * three stage thinking
 * commit
