@@ -4,3 +4,5 @@
 * three stage thinking
 * commit
 
+# Web edit
+* This is an example edit. Yay.
