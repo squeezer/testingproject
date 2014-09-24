@@ -1,5 +1,8 @@
 # Introduction to Git & GitHub at Stanford
 
+# changes for merge conflict
+(blah blah)
+
 # Local edit
 
 * git init
@@ -11,3 +14,5 @@
 
 # Steps to win
 * Profit
+
+# Why?
